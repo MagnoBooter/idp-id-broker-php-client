@@ -1,5 +1,5 @@
 {
-	"name" : "silinternational/idp-id-broker-php-client",
+	"name" : "magnobooter/idp-id-broker-php-client",
 	"type" : "library",
 	"description" : "PHP client to interact with our IdP ID Broker's API: https://github.com/silinternational/idp-id-broker",
 	"keywords" : [
